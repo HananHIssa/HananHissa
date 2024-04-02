@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanan Issa</h1>
 <h3 align="center">From Palestine</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HananHIssa](https://github.com/HananHIssa)
 
