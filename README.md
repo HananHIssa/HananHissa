@@ -51,31 +51,10 @@
 
 ---
 
-## 🔥 **Latest Projects**
-### 🏆 [E-Commerce Website](https://github.com/HananHIssa/ecommerce-project)
-🔹 Built with **React & ASP.NET**  
-🔹 Integrated **Payment Gateway** & **Admin Dashboard**  
-🔹 Live Demo: [E-Commerce Website](#)
-
-### 💡 [AI Image Recognition](https://github.com/HananHIssa/ai-image-recognition)
-🔹 Uses **OpenCV & TensorFlow** for Image Processing  
-🔹 Real-time Object Detection 📷  
-
-### 🚀 [Portfolio Website](https://github.com/HananHIssa/portfolio)
-🔹 Built with **React.js & Tailwind CSS**  
-🔹 Interactive animations & modern UI  
-
----
-
 ## 🎯 **Currently Working On**
 - 🌱 **Mastering ASP.NET & React**  
 - 💡 **Contributing to Open-Source Projects**  
 - 🎯 **Building Scalable Web Apps**  
-
----
-
-## 🎵 **Fun Fact**
-💡 **"Programming is like writing a book... except if you miss a single comma, the whole thing makes no sense!"** 🤓😂  
 
 ---
 
