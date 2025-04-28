@@ -2,7 +2,6 @@
 <h3 align="center">From Palestine 🇵🇸</h3>
 
 🌟 **About Me** 🌟  
-- 🌱 I’m currently learning **ASP.NET** and improving my skills in **React**.  
 - 💻 Check out my projects: [GitHub Profile](https://github.com/HananHIssa)  
 - 📫 How to reach me: **hananissa2018@gmail.com**  
 - ⚡ Fun fact: I love solving coding challenges & contributing to open-source! 🎯  
@@ -52,7 +51,6 @@
 ---
 
 ## 🎯 **Currently Working On**
-- 🌱 **Mastering ASP.NET & React**  
 - 💡 **Contributing to Open-Source Projects**  
 - 🎯 **Building Scalable Web Apps**  
 
