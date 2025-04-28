@@ -5,18 +5,6 @@
 - 💻 Check out my projects: [GitHub Profile](https://github.com/HananHIssa)  
 - 📫 How to reach me: **hananissa2018@gmail.com**  
 - ⚡ Fun fact: I love solving coding challenges & contributing to open-source! 🎯  
-
----
-
-## 🚀 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HananHIssa&show_icons=true&theme=radical" alt="HananHIssa's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HananHIssa&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HananHIssa&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🌐 **Connect with me**
