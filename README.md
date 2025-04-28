@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanan Issa</h1>
-<h3 align="center">💻 Passionate Developer | 🌍 From Palestine 🇵🇸</h3>
+<h3 align="center"> 🌍 From Palestine 🇵🇸</h3>
 
 ---
 
