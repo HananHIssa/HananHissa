@@ -42,24 +42,7 @@
 
 ---
 
-## 🌟 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HananHIssa&show_icons=true&theme=tokyonight" alt="Hanan's GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HananHIssa&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HananHIssa&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
 
----
-
-## 🌟 Currently Working On
-- 🚀 Building **Scalable Web Applications**
-- 🤝 Contributing to **Open-Source Projects**
-
----
 
 <h3 align="center">🔥 Feel free to connect — let's build something awesome together! 🚀</h3>
 
