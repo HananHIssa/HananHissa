@@ -1,48 +1,75 @@
 <h1 align="center">Hi 👋, I'm Hanan Issa</h1>
-<h3 align="center"> 🌍 From Palestine 🇵🇸</h3>
+
+<h3 align="center">
+Computer Systems Engineering Graduate | QA & Test Automation
+</h3>
+
+<p align="center">📍 Tulkarm, Palestine 🇵🇸</p>
 
 ---
 
-## 🌟 About Me
-- 🚀 **A Software Engineer** passionate about crafting clean and scalable solutions.
-- 💻 Check out my projects: [**GitHub Profile**](https://github.com/HananHIssa)
-- 📢 How to reach me: **hananissa2018@gmail.com**
-- 🌟 Fun fact: I love solving coding challenges & contributing to open-source communities!
+## About Me
+
+- 🎓 Computer Systems Engineering graduate from Palestine Technical University – Kadoorie.
+- 🧪 Building hands-on experience in test automation using Cypress and JavaScript.
+- 🔍 Practicing test case design, positive and negative testing, and bug reporting.
+- 💻 Applying fixtures, reusable custom commands, and assertions in end-to-end tests.
+- 🌱 Seeking opportunities in software quality assurance and test automation.
+- 📫 Reach me at: **hananissa2018@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
+## Projects
+
+### 🧪 ParaBank Test Automation — In Progress
+
+An end-to-end testing project built with **Cypress and JavaScript**.
+
+- Automated registration, login, logout, and account creation scenarios.
+- Tested fund transfers and explored invalid input cases.
+- Separated test data using fixtures and reused common steps through custom commands.
+- Added assertions to verify messages, account types, and transfer details.
+- Documented potential defects with reproduction steps and supporting evidence.
+
+### 💼 Collabrium — Graduation Project
+
+An integrated enterprise management platform combining project and task management,
+bug tracking, team collaboration, learning resources, and performance monitoring.
+
+---
+
+## Languages and Tools
+
 <p align="center">
-  <a href="https://linkedin.com/in/hananhissa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/19175407" target="_blank"><img src="https://img.shields.io/badge/-StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-  <a href="https://fb.com/hanan.issa.144" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/hananhissa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/c/hananissa584" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/hananissa" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/hananhissa" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/hananissa" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge" />
+  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+## Connect with Me
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <a href="https://linkedin.com/in/hananhissa">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hananissa2018@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/hananissa">
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/hananissa">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
-
----
-
-
-
-<h3 align="center">🔥 Feel free to connect — let's build something awesome together! 🚀</h3>
-
