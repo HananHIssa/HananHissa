@@ -18,30 +18,64 @@ Computer Systems Engineering Graduate · Palestine 🇵🇸
   </a>
 </p>
 
+<p align="center">
+  <a href="./Hanan-Issa-CV.pdf">📄 View My CV</a>
+</p>
+
 ---
 
 ## About Me
 
-I'm a **Computer Systems Engineering graduate from Palestine Technical University – Kadoorie**, with practical experience in manual and automated software testing.
+I'm a **Computer Systems Engineering graduate from Palestine Technical University – Kadoorie**, focused on software quality assurance through manual testing and test automation.
 
-My work includes **functional, regression, UI, and API testing**, alongside automated UI testing with **Playwright and JavaScript**. I also have experience with **Selenium WebDriver** and am expanding my automation practice through **Cypress**.
+My project experience includes **functional, regression, UI, and API testing**, alongside automated UI testing with **Playwright, Cypress, and JavaScript**. I also have experience with **Selenium WebDriver**.
 
-I focus on understanding user workflows, designing meaningful test cases, investigating unexpected behavior, and documenting defects with clear, reproducible evidence.
+I focus on understanding user workflows, designing meaningful test cases, investigating unexpected behavior, and documenting defects with clear reproduction steps and supporting evidence.
 
 ## Quality Assurance Skills
 
 | Area | Skills |
 | --- | --- |
 | Manual Testing | Functional, regression, UI, and exploratory testing |
-| Test Design | Test case design and execution, positive and negative scenarios |
+| Test Design | Test case design and execution, positive and negative scenarios, required-field validation |
 | UI Automation | Playwright, Cypress, Selenium WebDriver |
 | API Testing | Request execution and response validation using Postman |
 | Automation Structure | Page Object Model, data-driven testing, fixtures, custom commands |
-| Defect Management | Bug reporting, tracking, reproduction steps, and supporting evidence |
+| Test Synchronization | Network request monitoring and waiting with Cypress intercepts |
+| Defect Documentation | Expected and actual results, reproduction steps, screenshots, and supporting evidence |
 | Fundamentals | Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) |
 | Version Control | Git and GitHub |
 
 ## Featured Projects
+
+### ParaBank — End-to-End Test Automation
+
+**Cypress · JavaScript · JSON Fixtures · Custom Commands**
+
+An automation project for a banking demo application, combining UI test coverage with exploratory testing and defect documentation.
+
+**Test coverage**
+
+- Registration with valid data, missing required fields, mismatched passwords, and duplicate usernames.
+- Login with valid, invalid, and empty credentials, plus logout verification.
+- Creation of **CHECKING and SAVINGS accounts**, including account-type verification.
+- Fund transfers with assertions for confirmation messages, amounts, and account details.
+- Exploration of empty, zero, negative, and same-account transfer scenarios.
+- Contact information updates across all fields and individual fields.
+- Required-field validation when clearing all profile fields or one required field at a time.
+
+**Implementation**
+
+- Organized test suites by application feature and separated valid and invalid profile scenarios.
+- Separated test data from test logic using **JSON fixtures**.
+- Reused login and account creation workflows through **custom Cypress commands**.
+- Added conditional account setup when a transfer required a second account.
+- Synchronized profile interactions with customer-data requests using **`cy.intercept()` and `cy.wait()`**.
+- Documented potential defects with expected and actual results, screenshots, and transaction-history evidence.
+
+**Recorded local execution:** 44 tests passed across 7 specification files on October 22, 2026.
+
+[View Project →](https://github.com/HananHIssa/parabank-cypress-tests)
 
 ### SauceDemo — UI Test Automation
 
@@ -51,7 +85,7 @@ A UI test automation project for an e-commerce demo application, covering key st
 
 - Developed **11 automated UI tests** covering **login, cart, and checkout**.
 - Applied the **Page Object Model (POM)** to separate page interactions from test scenarios and improve maintainability.
-- Used **data-driven testing** to run scenarios with different test inputs.
+- Used **data-driven testing** to execute scenarios with different inputs.
 - Managed the project using **Git and GitHub**.
 
 ### Collabrium — Integrated Enterprise Management Platform
@@ -65,37 +99,16 @@ Collabrium brings project management, task tracking, bug reporting, team collabo
 - Performed **manual and functional testing** to validate application features and user workflows.
 - Conducted **regression testing** to check that changes did not disrupt existing functionality.
 - Performed **UI testing** to evaluate interface behavior and consistency.
-- Tested **APIs using Postman** to assess behavior beyond the user interface.
+- Tested **APIs using Postman** to assess application behavior beyond the user interface.
 
-This project gave me practical experience testing a system with multiple connected modules and examining quality across both UI and API interactions.
-
-### ParaBank — End-to-End Test Automation
-
-**Cypress · JavaScript · JSON Fixtures · Custom Commands**  
-*In progress*
-
-An automation project for a banking demo application, combining functional test coverage with exploratory investigation and defect documentation.
-
-**Test coverage**
-- Registration with valid data, missing required fields, mismatched passwords, and duplicate usernames.
-- Login with valid, invalid, and empty credentials, plus logout verification.
-- Creation of **CHECKING and SAVINGS accounts**, including verification of account types.
-- Transfers between different accounts, with assertions for confirmation messages, amounts, and account details.
-- Exploration of empty, zero, negative, and same-account transfer scenarios.
-
-**Implementation**
-- Organized test suites by application feature.
-- Separated test data from test logic using **JSON fixtures**.
-- Reused login and account creation steps through **custom Cypress commands**.
-- Added conditional account setup when a transfer required a second account.
-- Documented potential defects with expected and actual results, screenshots, and transaction-history evidence.
+This project gave me practical experience testing connected modules and examining application behavior through both UI and API interactions.
 
 ## Tools & Technologies
 
 <p align="center">
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" />
-  <img alt="Selenium WebDriver" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img alt="Selenium WebDriver" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -119,3 +132,4 @@ Palestine Technical University – Kadoorie · 2021–2026
 - **LinkedIn:** [Hanan Issa](https://linkedin.com/in/hananhissa)
 - **GitHub:** [HananHIssa](https://github.com/HananHIssa)
 - **Email:** [hananissa2018@gmail.com](mailto:hananissa2018@gmail.com)
+- **CV:** [View My CV](./Hanan-Issa-CV.pdf)
